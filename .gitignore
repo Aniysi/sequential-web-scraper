@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+
+# Temporary files
+/temp
+/epubs
+
+# User-specific configuration files
+email_config.json
